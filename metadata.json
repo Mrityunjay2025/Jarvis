@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis AI",
+  "description": "A professional AI assistant with advanced reasoning, modular plugins, ML predictions, web scraping, task management, and interactive visualization.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
